@@ -1,6 +1,6 @@
 # A PyTorch implementation of Hopkins loss
 
-**NOTE: The links are not yet correct!**
+**NOTE: The links are not yet correct since the work has not yet been published!**
 
 This repository contains code for training classifiers or autoencoders using [Hopkins loss](www.herewillbethepaperlink.com) for speech, text, and image data. Hopkins loss is a simple loss function that can be integrated into the training process of machine-learning models to modify or enforce the feature space into either a regularly-spaced, randomly-spaced, or clustered topology. The code has been implemented using PyTorch. For a thorough description of the Hopkins loss, see [the publication](www.herewillbethepaperlink.com).
 
