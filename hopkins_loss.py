@@ -51,7 +51,7 @@ class HopkinsLoss(Module):
             1. Let X be a set of n data points.
             2. Select a random sample of m << n data points sampled from X without replacement, denoted
                as X_tilde.
-            3. Generate a set Y of m data points distributed at random.
+            3. Generate a set Y of m data points uniformly distributed at random.
             4. Define two distance measures:
                 a) u_i: The minimum distance of y_i in Y from its nearest neighbor in X.
                 b) w_i: The minimum distance of x_i_tilde in X_tilde from its nearest neighbor in X.
