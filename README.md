@@ -3,7 +3,7 @@
 This repository contains code for training classifiers or autoencoders using [Hopkins loss](https://ieeexplore.ieee.org/document/11272771) for speech, text, and image data. Hopkins loss is a simple loss function that can be integrated into the training process of machine-learning models to modify or enforce the feature space into either a regularly-spaced, randomly-spaced, or clustered topology. The code has been implemented using PyTorch. For a thorough description of the Hopkins loss, see the publication ([IEEE Xplore](https://ieeexplore.ieee.org/document/11272771)/[arXiv pre-print](https://arxiv.org/abs/2509.11154)).
 
 **The present Hopkins loss implementation has been used in the following publication:**
-[E. Vaaras and M. Airaksinen, "Feature Space Topology Control via Hopkins Loss", _in Proc. IEEE ICTAI 2025_](https://ieeexplore.ieee.org/document/11272771) (pre-print also available at [arXiv](https://arxiv.org/abs/2509.11154)).
+[E. Vaaras and M. Airaksinen, "Feature Space Topology Control via Hopkins Loss", _in Proc. IEEE ICTAI 2025_](https://ieeexplore.ieee.org/document/11272771) (pre-print also available [here](https://arxiv.org/abs/2509.11154)).
 
 If you use the present code or its derivatives, please cite the [repository URL](https://github.com/SPEECHCOG/hopkins_loss) and/or the [aforementioned publication](https://ieeexplore.ieee.org/document/11272771).
 
